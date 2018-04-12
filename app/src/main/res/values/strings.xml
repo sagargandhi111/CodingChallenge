@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coding Challenge</string>
+    <string name="splash_head">Coding Challenge</string>
+    <string name="topics">Topics</string>
+    <string name="add_topic">Add Topic</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+    <string name="up">Vote Up</string>
+    <string name="down">Vote Down</string>
+</resources>
